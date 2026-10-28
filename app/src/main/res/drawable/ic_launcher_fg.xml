@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="@android:color/system_accent1_100" android:pathData="M45.4,54A8.6,8.6 0 1 0 62.6,54A8.6,8.6 0 1 0 45.4,54Z" />
+    <path android:fillColor="@android:color/system_accent1_300" android:pathData="M46.4,34.5A7.6,7.6 0 1 0 61.6,34.5A7.6,7.6 0 1 0 46.4,34.5Z" />
+    <path android:fillColor="@android:color/system_accent2_300" android:pathData="M63.29,44.25A7.6,7.6 0 1 0 78.49,44.25A7.6,7.6 0 1 0 63.29,44.25Z" />
+    <path android:fillColor="@android:color/system_accent3_300" android:pathData="M63.29,63.75A7.6,7.6 0 1 0 78.49,63.75A7.6,7.6 0 1 0 63.29,63.75Z" />
+    <path android:fillColor="@android:color/system_accent1_300" android:pathData="M46.4,73.5A7.6,7.6 0 1 0 61.6,73.5A7.6,7.6 0 1 0 46.4,73.5Z" />
+    <path android:fillColor="@android:color/system_accent2_300" android:pathData="M29.509999999999998,63.75A7.6,7.6 0 1 0 44.71,63.75A7.6,7.6 0 1 0 29.509999999999998,63.75Z" />
+    <path android:fillColor="@android:color/system_accent3_300" android:pathData="M29.509999999999998,44.25A7.6,7.6 0 1 0 44.71,44.25A7.6,7.6 0 1 0 29.509999999999998,44.25Z" />
+</vector>
