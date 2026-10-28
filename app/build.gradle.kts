@@ -18,8 +18,8 @@ android {
         applicationId = "dev.novacain.hive"
         minSdk = 36          // made for CMF Phone 2 Pro (galaga), Nothing OS 4.1 / Android 16
         targetSdk = 36
-        versionCode = 1
-        versionName = "0.1"
+        versionCode = 2
+        versionName = "0.2"
     }
     signingConfigs {
         if (keyProps.isNotEmpty()) create("release") {
